@@ -49,6 +49,12 @@ h3 {
     color: #F4F4F4;
 }
 
+.resume {
+    height: 600px;
+    width: 860px;
+    display: inline;
+}
+
 a:link {
     color: #C0B283;
     text-decoration: none;
@@ -155,21 +161,21 @@ a:active {
 }
 
 .nav {
-    border:1px solid #C0B283;
-    border-width:1px 0;
-    list-style:none;
-    margin:0;
-    padding:0;
-    text-align:center;
+    border: 1px solid #C0B283;
+    border-width: 1px 0;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    text-align: center;
 }
 
 .nav li {
-    display:inline;
+    display: inline;
 }
 
 .nav a {
-    display:inline-block;
-    padding:10px;
+    display: inline-block;
+    padding: 10px;
     color: #C0B283;
     text-decoration: none;
     font-family: rockwell;
